@@ -1,0 +1,82 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styles */
+header {
+  background-color: #f9c401;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+/* Navigation styles */
+nav {
+  background-color: #2e2e2e;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #f9c401;
+  color: #2e2e2e;
+}
+
+/* Main content styles */
+main {
+  padding: 20px;
+}
+
+main h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+main ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+main ul li {
+  margin-bottom: 20px;
+}
+
+main ul li h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+main ul li p {
+  margin: 0;
+}
+
+main ul li p strong {
+  font-weight: bold;
+}
+
+/* Footer styles
